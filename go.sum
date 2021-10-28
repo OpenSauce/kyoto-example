@@ -1,0 +1,4 @@
+github.com/yuriizinets/kyoto v0.0.0-20211028115727-ea85844319aa h1:L6TPTejOWQ+fFDXFFtm+OIZ80YdKgpuCTho7SgqreDM=
+github.com/yuriizinets/kyoto v0.0.0-20211028115727-ea85844319aa/go.mod h1:5mMUtxQ1AdsJNmpDih3NQC4PJWq1kbqx9IrRs+06ZRg=
+github.com/yuriizinets/kyoto-uikit/twui v0.0.0-20211028111347-6b396b889dbe h1:/NOpwrhKTFl9e9Gvqf6oZH21LnndKDS8h4Ogt4t2bv4=
+github.com/yuriizinets/kyoto-uikit/twui v0.0.0-20211028111347-6b396b889dbe/go.mod h1:uCuVvygEfUwkIst9Oimgwu1JvsoiLsoqdOM7jArjKO4=
